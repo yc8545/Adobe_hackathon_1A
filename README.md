@@ -118,12 +118,8 @@ adobe_voice_ai/
 | JSON Output        | ✅ Structured output |
 | ≤60 sec/Task       | ✅ Optimized functions |
 
----
-
-## ✨ Demo Screenshot  
-*(Add image later if needed — or a screen recording)*
 
 ---
 
 ## 👩‍💻 Made with 100% caffeine & chaos by:  
-**Babe — B.E. CSE, Chandigarh University**
+**Yashika , Raj , Vineet — B.E. CSE, Chandigarh University**
