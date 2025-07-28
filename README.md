@@ -53,6 +53,12 @@ Built under strict constraints:
 6. 📤 Responds visually and verbally — inside the overlay  
 
 ---
+### 🐳 Run with Docker
+
+#### Build the image:
+```bash
+docker build -t adobe_extractor .
+
 
 ## 🚀 Getting Started
 

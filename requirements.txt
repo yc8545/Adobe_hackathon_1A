@@ -1,6 +1,7 @@
+PyMuPDF
 vosk
 pyttsx3
-pymupdf
-sentence-transformers==2.2.2
-torch
-streamlit
+sentence-transformers
+networkx
+matplotlib
+pyaudio
