@@ -1,0 +1,7 @@
+{
+  "blockchain": "A distributed ledger technology where data is stored in a secure, transparent, and decentralized way.",
+  "encryption": "The process of converting information into a code to prevent unauthorized access.",
+  "consensus algorithm": "A mechanism used in blockchain to achieve agreement on a single data value among distributed systems.",
+  "smart contract": "A self-executing contract with the terms of the agreement written directly into code.",
+  "machine learning": "A subset of AI that allows systems to learn and improve from experience without being explicitly programmed."
+}

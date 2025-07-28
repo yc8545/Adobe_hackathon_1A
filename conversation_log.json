@@ -1,0 +1,9 @@
+{"user_input": "hi", "assistant_response": "Hey! I'm your offline assistant. Just tell me what you want from the document."}
+{"user_input": "what is block chain", "assistant_response": "Sorry, I couldn't find an explanation for that."}
+{"user_input": "what is blockchain", "assistant_response": "Sorry, I couldn't find an explanation for that."}
+{"query": "explain post hiding", "response": "Hey! I'm your offline assistant. Just say what you want from the PDF."}
+{"query": "first paragraph", "response": "Here\u2019s the first paragraph:\n\nBLOCKCHAIN TECHNOLOGY\nINTRODUCTION\nBlockchain is a distributed ledger technology that allows data to be stored globally on thousands of servers. It\nenables secure and transparent transactions without the need for a trusted third party. Each block in the\nchain contains a number of transactions, and every time a new transaction occurs on the blockchain, a record\nof that transaction is added to every participant's ledger.\nUSE CASES\nBlockchain has many use cases including supply chain tracking, digital identity verification, and\ncryptocurrency transactions like Bitcoin.\n"}
+{"query": "second paragraph", "response": "Try asking something like: 'Explain X', 'First paragraph', or 'List headings'."}
+{"query": "less tidings", "response": "Try asking something like: 'Explain X', 'First paragraph', or 'List headings'."}
+{"query": "list headings", "response": "Some headings I found are: BLOCKCHAIN TECHNOLOGY, INTRODUCTION, USE CASES"}
+{"query": "list headings", "response": "Some headings I found are: BLOCKCHAIN TECHNOLOGY, INTRODUCTION, USE CASES"}
